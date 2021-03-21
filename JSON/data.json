@@ -1,0 +1,14 @@
+{
+  "students": [
+    {
+      "nim" : "1",
+      "nama" : "asad",
+      "email" : "asad@gmail.com"
+    },
+    {
+      "nim" : "2",
+      "nama" : "rafi",
+      "email" : "rafi@gmail.com"
+    }
+  ]
+}
