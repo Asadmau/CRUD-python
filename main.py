@@ -1,7 +1,7 @@
 import json
 from bottle import route, run, template
 
-@route('/', metods='GET')
+@route('/')
 def home():
     find = open('JSON/data.json')
     data = json.load(find)
